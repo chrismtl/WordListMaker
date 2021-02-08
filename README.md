@@ -6,12 +6,8 @@ Wordlists mode:
 simple combinations between input keywords
 
 Exemple:
-input => a    output => a     ab     abc
-         b              b     ba     acb
-         c              c     ac     bca
-                              ca     bac
-                              bc     cab
-                              cb     cba
+input  => a,b,c
+output => a , b , c , ab , ba , bc , cb , ca , ac , abc , acb , bac , bca , cba , cab
 
 2) Medium custom:
 Same as low custom but with 3 blocs (High bloc for words, Medium bloc for numbers and Low bloc for symbols) and only 6 combinatoires predefined for it to look like a password
