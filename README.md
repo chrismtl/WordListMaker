@@ -17,11 +17,11 @@ input => a    output => a     ab     abc
 Same as low custom but with 3 blocs (High bloc for words, Medium bloc for numbers and Low bloc for symbols) and only 6 combinatoires predefined for it to look like a password
 
 3) Full custom:
-Method inspired from hashcat that creates combinations from a special composition
+Method inspired from hashcat that creates combinations from a given composition
 Dictionnary : a => minusculs
               A => majusculs
               N => numbers
               & => symbols (! ? & # * % +)
               
 Cracking mode:
-simplu uses aircrack-ng to crack handshake with wordlist
+simply uses aircrack-ng to crack given handshake with wordlist
