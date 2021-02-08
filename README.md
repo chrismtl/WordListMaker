@@ -1,5 +1,5 @@
 # WordListMaker
-Python code creating customized wordlists
+Create your own entirely customized WordList and use it to crack handshakes with aircrack-ng
 
 Wordlists mode:
 1) Low custom:
