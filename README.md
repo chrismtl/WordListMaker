@@ -7,7 +7,7 @@ simple combinations between input keywords
 
 Exemple:
 input => a    output => a     ab     abc
-         b              b  +  ba  +  acb
+         b              b     ba     acb
          c              c     ac     bca
                               ca     bac
                               bc     cab
