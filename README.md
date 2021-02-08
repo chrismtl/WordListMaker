@@ -1,7 +1,7 @@
 # WordListMaker
 Python code creating customized wordlists
 
-Wordlists types:
+Wordlists mode:
 1) Low custom:
 simple combinations between input keywords
 
@@ -23,5 +23,5 @@ Dictionnary : a => minusculs
               N => numbers
               & => symbols (! ? & # * % +)
               
-Cracking part:
+Cracking mode:
 simplu uses aircrack-ng to crack handshake with wordlist
