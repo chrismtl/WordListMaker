@@ -1,5 +1,6 @@
 # WordListMaker
-Create your own entirely customized WordList and use it to crack handshakes with aircrack-ng
+Create your own entirely customized WordList
+works on LINUX
 
 Wordlists mode:
 1) Low custom:
