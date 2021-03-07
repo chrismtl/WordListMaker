@@ -2,7 +2,7 @@
 import os
 
 YES = "y"
-NO = "n"
+NO = "n" bite
 SUCCESS = "s"
 FAIL = "f"
 text_S = "success"
