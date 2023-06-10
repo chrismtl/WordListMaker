@@ -7,7 +7,7 @@ SUCCESS = "s"
 FAIL = "f"
 text_S = "success"
 text_F = "fail"
-text = {"s":"success" , "f":"fail"}
+text = {SUCCESS:text_S , FAIL:text_F}
 
 DISPLAY     = "Display wordlist? (y/n): "
 SAVE        = "Save wordlist? (y/n): "
